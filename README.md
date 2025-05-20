@@ -4,6 +4,7 @@
 
 #### Take a look on the chatroom here:  
 [https://weberi.github.io/kic_chatroom.github.io](https://weberi.github.io/kic_chatroom.github.io)
+[https://EAA2324.github.io/kic_chatroom.github.io](https://EAA2324.github.io/kic_chatroom.github.io)
 
 
 #### To create your own chatroom:
